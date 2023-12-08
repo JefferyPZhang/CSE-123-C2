@@ -1,3 +1,5 @@
+# Creative Project 2: Mondrian Art
+
 **Assignment Spec:**
 
 Program Behavior:
